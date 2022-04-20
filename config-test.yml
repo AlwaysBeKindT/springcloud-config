@@ -3,4 +3,7 @@
 # ssh-keygen -t ed25519 -C "taoy9527@gmail.com"
 # git remote add origin git@github.com:AlwaysBeKindT/springcloud-config.git
 cofig:
-	info: "master branch,springcloud-config/config-test.yml version=1"
+ info: "master branch,springcloud-config/config-test.yml version=1"
+aa:
+ bb:
+  cc: 546465
